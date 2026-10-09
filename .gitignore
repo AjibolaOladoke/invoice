@@ -1,0 +1,6 @@
+*.pdf
+*.json
+*.yaml
+*.yml
+*.sh
+!.github/workflows/*.yml
