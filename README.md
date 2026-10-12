@@ -6,7 +6,7 @@ We keep a working index for product and engineering, and invoice is the entry th
 
 ## Images
 
-[![invoice](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![invoice](images/preview.png)](https://github.com/Swift-Tech-Co/invoice)
 
 ## Command Line Interface
 
@@ -17,14 +17,12 @@ invoice generate --from "Dream, Inc." --to "Imagine, Inc." \
     --note "For debugging purposes."
 ```
 
-
 View the generated PDF at `invoice.pdf`, you can customize the output location
 with `--output`.
 
 ```bash
 open invoice.pdf
 ```
-
 
 ### Environment
 
@@ -75,7 +73,6 @@ invoice generate --import path/to/data.json \
 
 If you would like a custom invoice template for your business or company, please
 reach out via:
-
 
 ## Installation
 
@@ -133,13 +130,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/invoice
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [maaslalani/invoice](https://github.com/maaslalani/invoice) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
